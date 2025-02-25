@@ -6,4 +6,4 @@
 + [EX01-03 Rock_Paper_Scissors](EX01_03_Rock_Paper_Scissors_.ipynb)
 
 ### week02
-+ [EX01_04 最終密碼](EX01_04_最終密碼.ipynb)
++ [EX01-04 最終密碼](EX01_04_最終密碼.ipynb)
