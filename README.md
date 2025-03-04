@@ -12,3 +12,4 @@
   
 ### week03
 + [EX01-07 美食資訊查詢](EX01_07_美食資訊查詢.ipynb)
++ [EX02-01 My Chatbot](EX02_01_My_Chatbot.ipynb)
