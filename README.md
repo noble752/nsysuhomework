@@ -13,3 +13,6 @@
 ### week03
 + [EX01-07 美食資訊查詢](EX01_07_美食資訊查詢.ipynb)
 + [EX02-01 My Chatbot](EX02_01_My_Chatbot.ipynb)
+
+### week04
++[EX02-02 高雄紅橘線捷運車站位置查詢](EX02_02_高雄紅橘線捷運車站位置查詢.ipynb)
