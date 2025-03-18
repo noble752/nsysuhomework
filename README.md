@@ -15,4 +15,8 @@
 + [EX02-01 My Chatbot](EX02_01_My_Chatbot.ipynb)
 
 ### week04
-+[EX02-02 高雄紅橘線捷運車站位置查詢](EX02_02_高雄紅橘線捷運車站位置查詢.ipynb)
++ [EX02-02 高雄紅橘線捷運車站位置查詢](EX02_02_高雄紅橘線捷運車站位置查詢.ipynb)
+
+
+### week05
++ [EX02-03 Yahoo 新聞儲存 Google 試算表](EX02_03_Yahoo_新聞儲存_Google_試算表.ipynb)
