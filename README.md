@@ -27,4 +27,4 @@
 + [EX02-06 開眼電影](EX02_06_開眼電影.ipynb)
 
 ### week07
-+ [EX02-07 KKDay]()
++ [EX02-07 KKDay](EX02_07_KKDay.ipynb)
