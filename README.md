@@ -43,4 +43,4 @@
 + [EX03-07 Tips](EX03_07_Tips.ipynb)
 
 ### week11
-+[EX05-01 Echo Bot](EX05_01_Echo_Bot.ipynb)
++ [EX05-01 Echo Bot](EX05_01_Echo_Bot.ipynb)
