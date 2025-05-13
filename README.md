@@ -45,7 +45,9 @@
 ### week11
 + [EX05-01 Echo Bot](EX05_01_Echo_Bot.ipynb)
 
-### week11
+### week12
 + [EX05-02 Ask Gemini](EX05_02_Ask_Gemini.ipynb)
 + [EX05-03 Reply Multi-type Messages](EX05_03_Reply_Multi_type_Messages.ipynb)
 
+### week13
++ [EX05-04 Reply Template Messages](EX05_04_Reply_Template_Messages.ipynb)
