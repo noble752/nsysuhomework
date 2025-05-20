@@ -51,3 +51,6 @@
 
 ### week13
 + [EX05-04 Reply Template Messages](EX05_04_Reply_Template_Messages.ipynb)
+
+### week14
++ [EX04-01 汽車車型數值資料轉換](EX04_01_汽車車型數值資料轉換.ipynb)
